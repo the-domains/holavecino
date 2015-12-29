@@ -1,0 +1,28 @@
+name: 'HolaVecino '
+favicon: null
+layout_spectrum: 0.12343681696802378
+typography_spectrum: 0.43548386497423053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.38834531512111425
+  lightness: 0.1884626941755414
+  saturation: 0.8616814550478011
+  rhythmicContrast: 0.5143162063322961
+purpose: []
