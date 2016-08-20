@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Acerca de nosotros
+    url: 'http://holavecino.ong/'
+    type: external
 favicon: null
 title: Kit del Vecino Prendido
 description: Como provocar tu barrio sin morir en el intento
