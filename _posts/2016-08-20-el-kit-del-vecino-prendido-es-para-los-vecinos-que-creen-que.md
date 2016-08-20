@@ -3,8 +3,8 @@ description: >-
   El Kit del Vecino Prendido es para los vecinos que creen que pueden cambiar el
   mundo que les rodea. Es para aquellos vecinos que valoran su tiempo y el de
   los demás.
-dateModified: '2016-08-20T17:30:05.406Z'
-datePublished: '2016-08-20T17:30:29.918Z'
+dateModified: '2016-08-20T17:33:51.251Z'
+datePublished: '2016-08-20T17:34:21.265Z'
 title: ''
 author: []
 publisher: {}
@@ -18,7 +18,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b563030a-1260-4772-babf-f7bf6eddb647.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abb7239-0266-4cdd-8949-e9c9c9aa4cca.png)
 
 El Kit del Vecino Prendido es para los vecinos que creen que pueden cambiar el mundo que les rodea. Es para aquellos vecinos que valoran su tiempo y el de los demás.
 
